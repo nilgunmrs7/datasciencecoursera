@@ -7,7 +7,8 @@ available.
 
 There are 9 **variables** in the dataset:
 
-**Date:** Date in format dd/mm/yyyy **Time:** time in format hh:mm:ss  
+**Date:** Date in format dd/mm/yyyy  
+**Time:** time in format hh:mm:ss  
 **Global\_active\_power:** household global minute-averaged active power
 (in kilowatt)  
 **Global\_reactive\_power:** household global minute-averaged reactive
