@@ -7,28 +7,31 @@ available.
 
 There are 9 **variables** in the dataset:
 
-**Date:** Date in format dd/mm/yyyy **Time:** time in format hh:mm:ss
+**Date:** Date in format dd/mm/yyyy **Time:** time in format hh:mm:ss  
 **Global\_active\_power:** household global minute-averaged active power
-(in kilowatt) **Global\_reactive\_power:** household global
-minute-averaged reactive power (in kilowatt) **Voltage:**
-minute-averaged voltage (in volt) **Global\_intensity:** household
-global minute-averaged current intensity (in ampere)
+(in kilowatt)  
+**Global\_reactive\_power:** household global minute-averaged reactive
+power (in kilowatt)  
+**Voltage:** minute-averaged voltage (in volt)  
+**Global\_intensity:** household global minute-averaged current
+intensity (in ampere)  
 **Sub\_metering\_1:** energy sub-metering No. 1 (in watt-hour of active
 energy). It corresponds to the kitchen, containing mainly a dishwasher,
-an oven and a microwave (hot plates are not electric but gas powered).
+an oven and a microwave (hot plates are not electric but gas powered).  
 **Sub\_metering\_2:** energy sub-metering No. 2 (in watt-hour of active
 energy). It corresponds to the laundry room, containing a
-washing-machine, a tumble-drier, a refrigerator and a light.
+washing-machine, a tumble-drier, a refrigerator and a light.  
 **Sub\_metering\_3:** energy sub-metering No. 3 (in watt-hour of active
 energy). It corresponds to an electric water-heater and an
 air-conditioner.
 
 **Loading Data**
 
-When loading the dataset into R, please consider the following: \* The
-dataset has 2,075,259 rows and 9 columns. \* We will only be using data
-from the dates 2007-02-01 and 2007-02-02. \* Note that in this dataset
-missing values are coded as ?.
+When loading the dataset into R, please consider the following:  
+\* The dataset has 2,075,259 rows and 9 columns.  
+\* We will only be using data from the dates 2007-02-01 and
+2007-02-02.  
+\* Note that in this dataset missing values are coded as ?.
 
 **Making Plots**
 
